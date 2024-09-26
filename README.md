@@ -1,7 +1,7 @@
 
 # Conversational RAG Chatbot
 
-This project implements a Conversational Retrieval-Augmented Generation (RAG) chatbot using Langchain, Groq API, Google Generative AI embeddings, and ChromaDB. The chatbot is built to answer domain-specific queries based on provided documents.
+This project implements a Conversational Retrieval-Augmented Generation (RAG) chatbot using Langchain, Groq API, Google Generative AI embeddings, and ChromaDB. The chatbot is built to answer domain-specific queries based on provided ml.txt document.
 
 ## Table of Contents
 
