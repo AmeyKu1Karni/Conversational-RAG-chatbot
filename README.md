@@ -8,9 +8,6 @@ This project implements a Conversational Retrieval-Augmented Generation (RAG) ch
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
