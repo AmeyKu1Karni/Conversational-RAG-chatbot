@@ -68,31 +68,6 @@ The Gradio interface will display the chatbot and respond with answers based on 
 - **Google Generative AI Embeddings**: Utilizes embeddings from Google Generative AI for better language understanding.
 - **Gradio Interface**: A user-friendly interface to interact with the chatbot.
 
-## Project Structure
-
-```
-repository-name/
-│
-├── data/               # Directory to store input documents
-├── src/                # Source code for chatbot
-│   ├── chatbot.py      # Chatbot logic
-│   └── utils.py        # Utility functions
-├── notebooks/          # Jupyter notebooks
-│   └── Coversational_RAG_chatbot_langchain.ipynb  # Main notebook
-├── requirements.txt    # Required Python packages
-└── README.md           # Project documentation
-```
-
-## Contributing
-
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
