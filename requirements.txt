@@ -1,0 +1,7 @@
+langchain==0.1.6
+chromadb
+langchain-chromadb
+langchain-google-genai
+python-dotenv==1.0.0
+gradio
+langchain-community==0.0.19
